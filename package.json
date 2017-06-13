@@ -1,0 +1,20 @@
+{
+  "name": "p5",
+  "version": "1.0.0",
+  "description": "web cam socker express node ..",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adien7368/p5-web-cam.git"
+  },
+  "author": "Adien7368",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adien7368/p5-web-cam/issues"
+  },
+  "homepage": "https://github.com/Adien7368/p5-web-cam#readme"
+}
