@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Adien7368/p5-web-cam/issues"
   },
-  "homepage": "https://github.com/Adien7368/p5-web-cam#readme"
+  "homepage": "https://github.com/Adien7368/p5-web-cam#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
 }
